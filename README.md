@@ -1,2 +1,1 @@
-# WEB_DEVLOPMENT
-My web devlopment journey will be in here..😊
+My web devlopment journey is startd
